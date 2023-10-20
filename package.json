@@ -17,7 +17,6 @@
     "chalk-animation": "^2.0.3",
     "figlet": "^1.6.0",
     "gradient-string": "^2.0.2",
-    "prompts": "^2.4.2",
-    "terminal-link": "^3.0.0"
+    "prompts": "^2.4.2"
   }
 }
